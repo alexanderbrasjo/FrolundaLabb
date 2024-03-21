@@ -1,0 +1,15 @@
+git rm [fil]
+git mv [oldfile] [newfile]
+git mergetool
+git fetch [remote]
+git show
+git tag
+git stash
+git stash pop
+git clean
+git revert [commit]
+git config --list
+git gc
+git fsck
+git commit --amend
+git help [command]
