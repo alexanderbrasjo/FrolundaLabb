@@ -1,0 +1,45 @@
+git init
+git clone
+git add [fil] 
+git commit -m "[commit-meddelande]"
+git status
+git diff
+git diff --staged
+git branch
+git checkout [gren]
+git merge [gren]
+git pull
+git push
+git remote -v
+git log
+git reset [fil]
+git rm [fil]
+git mv [oldfile] [newfile]
+git mergetool
+git fetch [remote]
+git show
+git tag
+git stash
+git stash pop
+git clean
+git revert [commit]
+git config --list
+git gc
+git fsck
+git commit --amend
+git help [command]
+git cherry-pick[commit]
+git rebase [branch]
+git blame [fil]
+git grep [pattern]
+git bisect [bad] [good]
+git describe
+git archive --format [zip|tar] [name]
+git checkout-b [branchname]
+git mergetool --tool [your_merge_tool]
+git fetch origin
+git show --patch [commit]
+git tag -a [tagname] [commit]
+git stash push -m "[message]"
+git stash list
+git rebase --interactive [branchname]
