@@ -74,6 +74,11 @@
             <td>Samlar ihop onödiga filer och komprimerar eller tar bort Git-object för att öka prestandan</td>
             <td>Görs ofta automatiskt av git vid en pull eller merge men kan vara bra att göra manuellt om repositoryt har blivit onödigt stort.</td>
         </tr>
+        <tr>
+            <td>git fsck</td>
+            <td>Kontrollerar alla objekt och referenser i ett repository, så att det inte finns några bristfälliga länkar eller ogiltiga objekt.</td>
+            <td>Används om man vill kontrollera så att det inte finns några problem med integriteten eller konsistensen i ditt repository. Görs automatiskt av Git under vanliga operationer.</td>
+        </tr>
         
     </table>
 </body>
