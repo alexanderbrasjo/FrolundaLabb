@@ -1,0 +1,29 @@
+git cherry-pick[commit]
+
+git rebase [branch]
+
+git blame [fil]
+
+git grep [pattern]
+
+git bisect [bad] [good]
+
+git describe
+
+git archive --format [zip|tar] [name]
+
+git checkout-b [branchname]
+
+git mergetool --tool [your_merge_tool]
+
+git fetch origin
+
+git show --patch [commit]
+
+git tag -a [tagname] [commit]
+
+git stash push -m "[message]"
+
+git stash list
+
+git rebase --interactive [branchname]
